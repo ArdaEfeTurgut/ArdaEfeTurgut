@@ -11,7 +11,7 @@ My current focus is python, backend development, and software testing. I'm also 
 I've got a growing collection of projects, and every one of them is part of a bigger goal: becoming a strong engineer and building real things in the future.
 ______________________________________________________________________________________________________________________________________________________________________
 
-Fun Facts:
+## Fun Facts:
 
 • ☕I like tea or coffee
 
