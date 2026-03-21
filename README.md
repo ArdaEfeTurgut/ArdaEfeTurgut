@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 Fun Facts:
 
-• ☕I like tea or coffe
+• ☕I like tea or coffee
 
 • 💻I enjoy building useful things
 
