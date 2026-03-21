@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there ⚡
 
-<!--
-**ArdaEfeTurgut/ArdaEfeTurgut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arda, a Computer Science student based in Wroclaw.
 
-Here are some ideas to get you started:
+I like building whatever helps me grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I decide to learn something, chances are I'll keep going until I turn it into a project.
+
+My current focus is python, backend development, and software testing. I'm also improving my problem-solving skills through university work and personal practice.
+
+I've got a growing collection of projects, and every one of them is part of a bigger goal: becoming a strong engineer and building real things in the future.
+
+Fun Facts:
+
+• I like tea or coffe
+• I enjoy building useful things
+• I'm interested in both software and business
+• Hobbies: Football, gym, building things
